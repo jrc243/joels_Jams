@@ -1,6 +1,6 @@
 const clientId = 'b6d16e3fa6b74721a5a63e0770ca944f';
-// const redirectUri = 'http://secretive-tin.surge.sh'
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'http://high-bell.surge.sh'
+// const redirectUri = 'http://localhost:3000'
 
 
 let accessToken;
